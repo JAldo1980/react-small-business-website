@@ -4,7 +4,7 @@ export default function Why() {
   return (
     <div className="why-el">
       <div className="inner-why-el">
-        <img className="james-why-image" src="/james-image.png" alt="" />
+        <img className="james-why-image" src="james-image.png" alt="" />
         <div className="why-cta">
           <h3>Why Glow?</h3>
           <p>
